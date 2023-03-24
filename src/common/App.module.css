@@ -1,0 +1,8 @@
+.ggwp {
+  color: purple;
+  transition: 0.3s;
+
+  &_odd {
+    color: steelblue;
+  }
+}
