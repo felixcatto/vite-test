@@ -16,7 +16,7 @@ function App() {
         <div className="col-6">lanaya</div>
       </div>
 
-      <div className="content">
+      <div className="text-center mb-4">
         <div>
           <a href="https://vitejs.dev" target="_blank" className="flex justify-center">
             <img src="/img/vite.svg" className="logo" alt="Vite logo" />
@@ -32,6 +32,8 @@ function App() {
         </div>
         <p className="read-the-docs">Click on the Vite and React logos to learn more</p>
       </div>
+
+      <div className="splash-screen"></div>
     </div>
   );
 }
