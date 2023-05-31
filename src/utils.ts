@@ -1,1 +1,1 @@
-export const x = 322;
+export const yyy = 111
